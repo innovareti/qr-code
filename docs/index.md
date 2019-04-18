@@ -1,6 +1,6 @@
 ### What is a QR Code?
 
-**_QR Code_** is short for **_Quick Response Code_**. It is a type of barcode that can store more information than the standard vertical lines barcode.  
+**_QR Code_** is short for **_Quick Response Code_**. It is a type of barcode that can store more information than the standard vertical lines barcode.
 <small>For a detailed explanation on QR Codes, please visit <a href="https://en.wikipedia.org/wiki/QR_code" target="_blank">https://en.wikipedia.org/wiki/QR_code</a></small>
 
 ### What does it look like?
@@ -9,7 +9,7 @@ A QR Code is a squared image with seemingly random dots. It may look like this:
 
 ![QR Code Example](assets/images/QRCODE.png)
 
-If you use your QR Code reader of choice, it should show you the message   
+If you use your QR Code reader of choice, it should show you the message
 **QR Code Generator for PHP!**
 
 ### What is QR Code Generator for PHP?
@@ -20,9 +20,9 @@ It supports the following formats:
 
  - Portable Network Graphics (PNG)
  - Scalable Vector Graphics (SVG)
- 
+
 ### <a id="examples">Examples</a>
- 
+
  - [Generic use](examples/generic-use)
  - [Calendar Event](examples/calendar-event)
  - [Email Message](examples/email-message)
@@ -33,7 +33,7 @@ It supports the following formats:
  - [meCard](examples/me-card)
  - [vCard v3](examples/v-card)
  - [Wi-fi Network Settings](examples/wi-fi)
- 
+
 ### Note
 
 Because of the number of permutations the QR Code permits, it is common to be able to generate different QR Code images for conveying the same information.
@@ -44,4 +44,4 @@ Try scanning these codes:
 
 ---
 
-QR Code Generator for PHP is [licensed](https://github.com/werneckbh/qr-code/blob/master/LICENSE.md) under <a href="https://tldrlegal.com/license/mit-license" target="_blank">MIT</a>. 
+QR Code Generator for PHP is [licensed](https://github.com/innovareti/qr-code/blob/master/LICENSE.md) under <a href="https://tldrlegal.com/license/mit-license" target="_blank">MIT</a>.
